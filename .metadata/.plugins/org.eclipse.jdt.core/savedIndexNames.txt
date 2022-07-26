@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\exercícios de programação\linguagens\Java\git\Projeto Dio Banco Digital\.metadata\.plugins\org.eclipse.jdt.core
+2795084599.index
+1865797976.index
+1024446143.index
